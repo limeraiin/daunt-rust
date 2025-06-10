@@ -1,0 +1,9 @@
+[package]
+name = "rust-roguelike"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+bracket-lib = "~0.8.1"
+legion = "=0.3.1"
+smallvec = "1.13"
