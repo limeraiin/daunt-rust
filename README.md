@@ -6,10 +6,6 @@ A simple roguelike dungeon crawler built with Entity Component System (ECS) and 
 
 ![image](https://github.com/user-attachments/assets/63ec6301-ea00-4a48-a9ac-0cfb156ee2fa)
 
-## Screenshot
-
-![image](https://github.com/user-attachments/assets/63ec6301-ea00-4a48-a9ac-0cfb156ee2fa)
-
 ## Installation & Running
 
 ### Prerequisites
